@@ -1,0 +1,2 @@
+# Mining.sh
+Baru buat
